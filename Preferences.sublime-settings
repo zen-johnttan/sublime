@@ -1,0 +1,14 @@
+{
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"JSX",
+		"Vintage"
+	],
+	"status_bar_brighter": true,
+	"tabs_medium": true,
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": false
+}

@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"EditorConfig",
+		"Emmet",
+		"File Navigator",
+		"Flatron",
+		"FuzzyFileNav",
+		"Handlebars",
+		"Jinja2",
+		"JSX",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty YAML",
+		"ReactJS",
+		"Sass",
+		"SideBarEnhancements",
+		"Sublime Files",
+		"SublimeLinter-pyflakes",
+		"Theme - Afterglow",
+		"Theme - Cobalt2"
+	]
+}
